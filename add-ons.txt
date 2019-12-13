@@ -1,0 +1,17 @@
+feedback
+  -return/
+  -sales daily/ 
+  -print recipt
+  
+
+ ask -
+     naa barcode tanan
+ 
+ addtional
+ sales - sales_discount
+ table - data lenght
+
+
+
+
+

@@ -1,0 +1,63 @@
+/* ###===============================================>
+#### @Author       : Bayangyang Bahala
+###  @Project      : Assessment and Cashiering System with Queue
+###  @Copyright    : August 8-1-2016 
+###
+##
+*/
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('../../fonts/OpenSans-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Hero Light';
+    src: url('../../fonts/Hero Light.ttf');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Hero Light';
+    src: url('../../fonts/Hero.ttf');
+    font-weight: normal;
+}
+ 
+@font-face {
+    font-family: 'mainframe-bb';
+    src: url('../../fonts/mainframe-bb.regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Planer_Reg';
+    src: url('../../fonts/Planer_Reg.ttf');
+    font-weight: normal;
+}
+ 
+@font-face {
+    font-family: 'glyphicons-halflings-regular';
+    src: url('../../fonts/glyphicons-halflings-regular.ttf');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'MAINBB';
+    src: url('../../fonts/MAINBB__.TTF');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'MAINBRG';
+    src: url('../../fonts/MAINBRG_.TTF');
+    font-weight: normal;
+} 
+
+@font-face {
+    font-family: 'Crashed';
+    src: url('../../fonts/Crashed Scoreboard.ttf');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'digital';
+    src: url('../../fonts/digital-7.ttf');
+    font-weight: normal;
+}  

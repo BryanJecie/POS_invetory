@@ -1,0 +1,222 @@
+/* ###===============================================>
+#### @Author       : Bayangyang Bahala
+###  @Project      : INV
+###  @Copyright    : August 8-1-2016 
+###
+##
+*/
+.div-dispay-product{
+			/*height: 270px;*/
+			/*overflow: scroll;*/
+			margin-top: -20px;
+	}
+	.tbl-product tr td input{
+		width: 80px;
+	}
+	.title small{
+		font-size: 16px;
+	}
+	.btn-div a{
+		/*width: 200px;*/
+		border-radius:1px;
+		/*margin-left: 12px; */
+	}
+	.caption-remain{
+		/*position: absolute;*/
+		margin-top: -20px;
+		font-size: 14px;
+		z-index: 9;
+		font-weight: bold;
+	}
+	.dataTables_filter label{
+		margin-bottom: -100px;
+		z-index: 9;
+	}
+	.tbl-remain tr td{
+		/*line-height: 10px !important;
+		height: 10px !important;*/
+		/*background-color:red;*/
+		/*padding: 110px !important;*/
+		padding: 3px !important;
+	}
+	.tbl-remain tr th{
+		/*line-height: 10px !important;
+		height: 10px !important;*/
+		/*background-color:red;*/
+		/*padding: 110px !important;*/
+		padding: 5px !important;
+	}
+	.dataTables_scroll{
+		/*height: 10px !important;*/
+	}
+	.text{
+		font-size:10px !important;
+		text-align: center;
+	}
+	.dataTables_scrollBody{
+		height: 200px !important;
+		/*background-color: #f1f1f1;*/
+		border: 1px solid #d9e0e7;
+
+	}
+	.dataTables_info{
+		display: none;
+	}
+	.dataTables_scrollFoot{
+			display: none;
+	}
+	.dataTables_filter{
+		/*display: none;/*/
+
+	}
+	#remain-tbl_filter{
+		display: none;
+	}
+	#remain-tbl_wrapper .dataTables_scrollBody{
+		height: 200px !important;
+	}
+	.total-modal label{
+		font-size: 30px;
+		font-weight: bold;
+	}
+	.total-modal  label span small{
+		/*font-size: 12px;*/
+	}
+	.total-modal input{
+		font-size: 20px;
+		height: 40px;
+		/*width: 230px;*/
+		/*margin-left: 10px;*/
+		text-align: right;
+	}
+	.btn-no button{
+		width: 60px;
+		height: 60px;
+		color: #000 !important;
+	}
+	#remain-tbl .focus{
+		/*display: none;*/
+	}
+	.modal-pay{
+		/*margin-top: 100px;*/
+	}
+	.text-total{
+		font-size: 16px;
+		font-weight: 500;
+	}
+	.focus{
+		border: 1px solid red !important;
+	}
+	.purch-tr{
+		line-height: 1px !important;
+
+	}
+	.purch-tr td{
+		line-height: 1px !important;
+	}
+	.modal-customer{
+		height: 600px !important;
+	}
+
+	.search-div{
+		position: absolute;
+		z-index: 9;
+		/*background-color: #d9e0e7!important;*/
+		width: 92%;
+		/*display: none;*/
+	}
+
+	.pos-customer{
+		font-size: 20px;
+	}
+	.header-name{
+		font-size: 20px;
+		color: #008a8a;
+		position: absolute;
+	}
+	.display-purchased .dataTables_empty{
+		display: none;
+	}
+	.input-pur-quan{
+		width: 60px !important;
+		border-top:none;
+		border-left: 30px !important; 
+	}
+	/*#table-customer_wrapper #table-customer tr th{
+			line-height: 10px !important;
+			font-size: 12px !important;
+	}
+	#table-customer_wrapper #table-customer tr td{
+			line-height: 10px !important;
+			font-size: 12px !important;
+	}*/
+	/*#table-customer_paginate ul li a{
+	 	padding:5px;
+	 	padding-top: 2px;
+	 	padding-bottom:  2px;
+	 	 
+	}*/
+
+
+	.tempPurchaseName{
+		/*width: 10% !important;*/
+		/*border: 1px solid #ccc;*/
+
+	}
+	.tempPurchased tr td{
+		/*margin-bottom:  30px !important;*/
+		line-height: 30px;
+	}
+	.tempPurchased .inputQuantity{
+		/*width: 40px !important;*/
+		/*height : 27px !important;*/
+		/*position: absolute;*/
+		/*margin-left: 10px;*/
+		/*position: absolute;*/
+		/*margin-left:100px;*/
+	}
+	.tempPurchased select{
+		/*width: 50px !important;*/
+		height : 27px !important;
+
+	}
+
+	.tempPurchaseBarcode{
+		/*width: 10% !important;*/
+	}
+	.inputPrice{
+		width: 100% !important;
+		/*border:1px solid red;*/
+
+	}
+
+	#tempTablePurchase_paginate , #tempTablePurchase_filter label , #tempTablePurchase_length label {
+		display: none;
+	}
+	.dataTables_empty{
+		display: none;
+	}
+
+	.modal-margin-sm{
+		margin-top: 120px !important;
+	}
+	.model-hieght{
+		height: 350px !important;
+	}
+	.tempPurName{
+		width: 30%;
+	}
+	.tempPurBarcode{
+		width: 25%;
+	}
+	.tempPurQuantity{
+		width: 24%;
+		text-align: right
+	}
+	.tempPurPrice{
+		width: 10%;
+	}
+	.tempPurDisc{
+		width: 20%;
+		text-align: right
+	}

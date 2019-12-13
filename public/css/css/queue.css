@@ -1,0 +1,49 @@
+/* ###===============================================>
+#### @Author       : Bayangyang Bahala
+###  @Project      : Assessment and Cashiering System with Queue
+###  @Copyright    : August 8-1-2016 
+###
+##
+*/
+
+
+.num-serve{
+	font-size: 120px;
+}
+.num-serve-all{
+	color:red;
+	font-size: 120px;
+	font-family: 'digital';
+	/*text-transform: ita*/
+	/*font-weight: bold;*/
+}
+.bnt-queue-ctrl button{
+	margin-bottom: 2px;
+	border-radius:0px !important;
+}
+.stat-no{
+	color:red;
+	font-family: 'digital';
+	letter-spacing: 1px;
+	font-size: 40px !important;
+	/*position: a*/
+}
+.num-serve{
+	letter-spacing: 1px;
+	font-family: 'digital';
+	
+}
+.queue-no{
+	font-size: 80px;
+	font-family: 'digital';
+	color: red;
+}
+.queues-no h1{
+	font-size: 100px;
+	/*font-family: 'digital';*/
+	color: red;
+	letter-spacing: 1px;
+	/*line-height: 150px;*/
+	font-weight: bold;
+	font-family: 'digital';
+}

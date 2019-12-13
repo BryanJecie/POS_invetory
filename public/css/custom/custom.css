@@ -1,0 +1,244 @@
+/* ###===============================================>
+#### @Author       : Bayangyang Bahala
+###  @Project      : INV
+###  @Copyright    : August 8-1-2016 
+###
+##
+*/
+
+
+
+
+
+.header-time{
+
+	font-size: 35px;
+	font-family: 'digital';
+	/*line-height: 30px;*/
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #fff;
+	 
+	text-decoration: none !important;
+}
+#ct{
+	margin-left: -10px;
+}
+.head-am{
+	margin-left: -8px;
+	font-size: 20px;
+ }
+ .head-btn{
+ 	margin-left: 200px;
+ 	margin-top: -10px;
+ 	/*position: fi*/
+ }
+ .head-btn button{
+ 	margin-left: 2px !important;
+ }
+.btn-modal-pay{
+	width: 100px;
+	/*height: 30px !important;*/
+	font-size: 16px;
+}
+.modal-div-tbl{
+	height: 200px;
+	overflow: scroll;
+}
+.tbl-remain{
+	/*margin-top: -101px !important;*/
+}
+#remain-tbl_wrapper td input{
+	width: 80px;
+}
+.user-image{
+	width: 100px;
+	height: 100px;
+}
+.modal-close{
+	width: 25%;
+	margin-top: 10%;
+	/*margin:10%;*/
+	margin-left: 40%;
+}
+.div-msg-alert{
+	width: 55%;
+
+}
+.input-pos{
+	height: 40px !important;
+	font-size: 16px;
+	border-radius: 10px !important;
+	width: 330px !important;
+}
+.btn-search{
+	height: 40px !important;
+}
+.width-60{
+	width: 655px !important;
+
+}
+
+#data-table_wrapper label input{
+	position: absolute;
+	margin-left: -160px !important;
+	height: 25px;
+	margin-top:-10px;
+	/*display: block !important;*/
+}
+/*#data-table_wrapper label{
+	display: none;
+}*/
+#data-table_wrapper .dataTables_scroll .dataTables_scrollBody{
+	height: 120px !important;
+}
+#data-table_wrapper   table{
+	/*height: 1px !important;*/
+	margin-top: 1px !important;
+}
+
+#data-table_wrapper   table tr th{
+	font-size: 10px !important;
+	line-height: 2px !important;
+	background-color: #f1f1f1;
+}
+#data-table_wrapper   table tr td{
+	font-size: 10px !important;
+	line-height: 2px !important;
+}
+
+
+#data-table_wrapper   table tr td.sorting_1::before{
+	/*background-color: red !important;*/
+	margin-top:-7px;
+
+}
+#remain-tbl_wrapper table{
+	/*background-color: red !important;*/
+}
+#remain-tbl_wrapper table tr th {
+	/*display: none !important;*/
+	/*margin-left: -100px !important;*/
+	/*background-color: red;*/
+	background-color: #a9a9a9;
+	line-height: 5px;	
+	/*width: 100%;*/
+}
+#remain-tbl_wrapper table tr td {
+	line-height: 5px;
+	/*text-align: center !important;*/
+}
+#remain-tbl_wrapper table tr th.sorting_asc::after{
+	display: none !important;
+
+}
+#remain-tbl_wrapper table tr th.sorting::after{
+	display: none !important;
+
+}
+#remain-tbl_wrapper table tr .focus{
+	/*display: none !important;*/
+
+}
+.btn-purchase-del{
+	padding: 8px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	position: absolute;
+	margin-top: 3px;
+}
+.tbl-total .text-total{
+	font-size: 25px;
+}
+.tbl-total tr .sub-text-total{
+	font-size: 12px;
+	line-height: 10px !important;
+	height: 2px !important;
+}
+.btn-lock{
+	/*padding: 20px;*/
+	margin-top: 10px !important;
+	position: absolute;
+	/*margin-left: */
+}
+.btn-lock a i{
+	font-size: 30px;
+
+}
+.btn-pay{
+	background-color: #a5c536!important;
+	border:1px solid #a5c536 !important;
+	/*height: 100px;*/
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.btn-return{
+	/*background-color: #a5c536!important;*/
+	/*border:1px solid #a5c536 !important;*/
+	/*height: 100px;*/
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.width-search{
+	width: 767px !important;
+	z-index: 9 !important;
+}
+
+.search-div tr:hover{
+	/*background-color: red;*/
+	/*cursor: pointer;*/
+}
+#data-table_wrapper label input{
+	margin-left: -170px !important; 
+}
+.p-text{
+	font-size: 16px;
+	/*position: absolute;*/
+	line-height: 20px !important;
+	/*margin-bottom: 110px !important;*/
+}
+.main-footer{
+	bottom:0;
+	position:fixed;
+	background-color: #fff;
+	width: 100%;
+	margin-left: -20px;
+	line-height: 8px;
+}
+.total-label{
+	font-size: 30px !important;
+	font-weight: bold;
+}
+.pay-input{
+	font-size: 27px;
+}
+.btnPayCmd{
+	background-color: #a5c536!important;
+	border: 1px solid #a5c536 !important
+}
+.btnLock a{
+	width: 60px;
+}
+.header-abbr{
+	font-size: 30px;
+	font-weight: 700;
+	color:#37757d;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.header-name{
+	font-size: 20px;
+	font-weight: 700;
+	color:#37757d;
+	/*margin-top: -101px !important;*/
+	margin-left: 10px;
+}
+.loading{
+	position: absolute; 
+	width: 100%; 
+	z-index: 9999;	
+ 	height: 100%;
+ 	background-color: rgba(0,0,0,.7);
+}
+
+ 

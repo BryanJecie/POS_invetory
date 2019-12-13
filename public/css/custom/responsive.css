@@ -1,0 +1,68 @@
+
+/*###===============================================>
+#### @Author       : Bayangyang Bahala
+###  @Project      : Equipment Borrowing and Inventory System
+###  @Copyright    : Date : Mon, 01 Feb 2016 Time : 10:08:11
+###
+*/
+
+.height{
+	margin-top: 5px !important; 
+
+}
+.height1{
+	margin-top: 10px !important; 
+}
+.height2{
+	margin-top: 20px !important; 
+}
+.height3{
+	margin-top: 30px !important; 
+}
+.height4{
+	margin-top: 40px !important; 
+}
+.height5{
+	margin-top: 50px !important; 
+}
+.height6{
+	margin-top: 60px !important; 
+}
+.height7{
+	margin-top: 70px !important; 
+}
+.height8{
+	margin-top: 80px !important; 
+}
+.height9{
+	margin-top: 90px !important; 
+}
+.height10{
+	margin-top: 100px !important; 
+}
+.size-xs{
+
+}
+.size-sm{
+	font-size: 20px !important;
+}
+.size-lg{
+
+}
+.nav-name{
+	line-height: 23px;
+	/*margin-bottom: 100px !important;*/
+}
+
+.icon-xs{
+	font-size: 14px !important;
+}
+.icon-sm{
+	font-size: 18px !important;
+}
+.icon-md{
+	font-size: 24px !important;
+}
+.icon-lg{
+	font-size: 30px !important;
+}

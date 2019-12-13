@@ -1,0 +1,10 @@
+create user account into the database
+
+	username = admin
+	password = 7a2442ffa0e0172a32319016e64dcb640d7c58f653d7d8e992ddba310e9e64d1
+	salt     =   šŸ,¸”jËÖ.F)f»   €÷®:ç–ÑÒ×¦o®
+
+
+
+
+Exceute this on data base
